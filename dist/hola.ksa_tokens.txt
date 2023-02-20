@@ -1,0 +1,7 @@
+Symbol: r_main
+Symbol: lparen
+Symbol: rparen
+Symbol: brop
+Symbol: brcl
+Symbol: EOF
+Symbol: EOF

@@ -1,0 +1,2 @@
+[GOTO, null, null, main]
+[SKIP, null, null, main]

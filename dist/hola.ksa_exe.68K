@@ -1,0 +1,9 @@
+	ORG $700
+input DS.L 15
+	ORG $1000
+START:
+	JMP main
+main:
+	JMP FINAL
+FINAL:
+	END START
